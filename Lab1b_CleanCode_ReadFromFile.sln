@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1b_CleanCode_ReadFromFile", "Lab1b_CleanCode_ReadFromFile.csproj", "{2F1B76C1-0877-4E12-B1C3-8FB70684E467}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A419AD5A-F578-47DE-AAB8-BE7D9D1E221E}"
+	ProjectSection(SolutionItems) = preProject
+		ReadTxtFile.cs = ReadTxtFile.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTxtFileTest", "..\ReadTxtFileTest\ReadTxtFileTest.csproj", "{538F9CEA-358C-4E0C-A68F-E09177EA023D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F1B76C1-0877-4E12-B1C3-8FB70684E467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1B76C1-0877-4E12-B1C3-8FB70684E467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1B76C1-0877-4E12-B1C3-8FB70684E467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1B76C1-0877-4E12-B1C3-8FB70684E467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538F9CEA-358C-4E0C-A68F-E09177EA023D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538F9CEA-358C-4E0C-A68F-E09177EA023D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538F9CEA-358C-4E0C-A68F-E09177EA023D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538F9CEA-358C-4E0C-A68F-E09177EA023D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF85C23-6943-40F4-9490-329396B2917F}
+	EndGlobalSection
+EndGlobal
